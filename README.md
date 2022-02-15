@@ -1,1 +1,1 @@
-# CGN_Dialect_Continual_Learning
+# CGN_CL_Dialect
