@@ -9,6 +9,7 @@
 ### run 
 
 ## Hyper-parameters of CL Methods
+Following table contains the values of Lambda, the weight of the regularization, for all methods requiring setting Lambda. 'Initial Lambda' refers to the initial value of Lambda which with we started our procedure to determine Lambda (see paper). Final Lambda is the Lambda which came out of this procedure and was used in the experiments. 
 
 Method | Initial Lambda | Final Lambda
 | :--- | ---: | ---:
