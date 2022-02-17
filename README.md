@@ -8,7 +8,7 @@
 ### config files
 ### run 
 
-## hyper-parameters of cl methods
+## Hyper-parameters of CL Methods
 
 Method | Initial Lambda | Final Lambda
 | :--- | ---: | ---:
@@ -17,7 +17,7 @@ MAS | 1e+01 | 1e-01
 CSQN | 1e+04 | 1e+02
 CSQN-BT | 1e+04 | 1e+02
 LWF | 1e+01 | 1e-01 
-ER ($\lambda$) | 1e+00 | 1e+01
+ER (Lambda) | 1e+00 | 1e+01
 KD | 1e+01 | 1e-01
 
 
