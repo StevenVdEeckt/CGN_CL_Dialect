@@ -23,7 +23,7 @@ For more information regarding the RegionIDs, see the documentation at https://i
 
 For a detailed overview of the utterance IDs and speaker IDs per task and dataset, see the data folder per task. 
 
-### Memory
+#### Memory
 
 For the rehearsal-based methods, we sample 500 utterances from the training set and add them to a memory. The data folder also contains the list of utterance IDs for each memory set.
 
