@@ -1,5 +1,11 @@
 # CGN_CL_Dialect
 
+Supplementary material to the paper "Continual Learning for Monolingual End-to-End Automatic Speech Recognition" , submitted at EUSIPCO 2022.
+
+This repository is meant to supplement the above paper. It contains the experimental details which should be sufficient to reproduce the results, as well as extra information regarding the results. For any questions, contact steven.vandereeckt@esat.kuleuven.be.
+
+
+
 ## data
 
 ## model 
