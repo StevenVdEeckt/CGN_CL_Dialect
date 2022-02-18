@@ -25,7 +25,7 @@ For a detailed overview of the utterance IDs and speaker IDs per task and datase
 
 #### Memory
 
-For the rehearsal-based methods, we sample 500 utterances from the training set and add them to a memory. The data folder also contains the list of utterance IDs for each memory set.
+For the rehearsal-based methods, we sample 500 utterances from the training set and add them to a memory. The data folder also contains the list of utterance IDs for each memory set. Note that there is both an 'increasing memory' (with 500 utterances per task) and a 'fixed memory', whose size at all times is limited to 500 utterances (as explained in the paper).
 
 
 ## model 
