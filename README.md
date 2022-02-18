@@ -50,7 +50,7 @@ KD | 1e+01 | 1e-01
 
 ## results
 
-![alt text](https://github.com/StevenVdEeckt/CGN_CL_Dialect/blob/main/results/final_results.png)
+![Results](https://github.com/StevenVdEeckt/CGN_CL_Dialect/blob/main/results/final_results.png)
 
 ## statistical significance
 
