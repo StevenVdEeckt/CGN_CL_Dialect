@@ -50,7 +50,7 @@ Following table contains the values of Lambda, the weight of the  , for all meth
 
 Method | Initial Lambda | Final Lambda
 | :--- | ---: | ---:
-EWC | 1e+05 | 1+e03
+EWC | 1e+05 | 1e+03
 MAS | 1e+01 | 1e-01
 CSQN | 1e+04 | 1e+02
 CSQN-BT | 1e+04 | 1e+02
