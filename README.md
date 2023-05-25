@@ -1,4 +1,4 @@
-# CGN_CL_Dialect
+# Continual Learning for Monolingual End-to-End Automatic Speech Recognition
 
 Supplementary material to the paper "Continual Learning for Monolingual End-to-End Automatic Speech Recognition" , submitted at EUSIPCO 2022.
 
