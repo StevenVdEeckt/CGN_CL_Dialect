@@ -2,6 +2,17 @@
 
 Supplementary material to the paper "Continual Learning for Monolingual End-to-End Automatic Speech Recognition" , submitted at EUSIPCO 2022.
 
+To cite the paper, please use:
+```
+@article{eeckt2021continual,
+title = {Continual learning for monolingual end-to-end automatic speech recognition},
+author = {Vander Eeckt, Steven and Van hamme, Hugo},
+journal = {Proceedings EUSIPCO 2022},
+year = {2022},
+}
+```
+
+
 This repository is meant to supplement the above paper. It contains the experimental details which should be sufficient to reproduce the results, as well as extra information regarding the results. For any questions, contact steven.vandereeckt@esat.kuleuven.be.
 
 
