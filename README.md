@@ -4,11 +4,15 @@ Supplementary material to the paper "Continual Learning for Monolingual End-to-E
 
 To cite the paper, please use:
 ```
-@article{eeckt2021continual,
-title = {Continual learning for monolingual end-to-end automatic speech recognition},
-author = {Vander Eeckt, Steven and Van hamme, Hugo},
-journal = {Proceedings EUSIPCO 2022},
-year = {2022},
+@INPROCEEDINGS{vandereeckt_eusipco2022,
+  author={Vander Eeckt, Steven and Van Hamme, Hugo},
+  booktitle={2022 30th European Signal Processing Conference (EUSIPCO)}, 
+  title={Continual Learning for Monolingual End-to-End Automatic Speech Recognition}, 
+  year={2022},
+  volume={},
+  number={},
+  pages={459-463},
+  doi={10.23919/EUSIPCO55093.2022.9909589}
 }
 ```
 
